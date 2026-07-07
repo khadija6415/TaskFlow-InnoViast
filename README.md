@@ -19,6 +19,13 @@ Teams often struggle to track daily tasks, deadlines, and responsibilities in on
 - **Dashboard Analytics** — Real-time stat cards and charts (status breakdown, overdue tasks)
 - **Responsive Design** — Fully usable on mobile, tablet, and desktop
 
+
+## 🔄 Task Workflow Diagram
+
+![Task Workflow Diagram](./screenshots/workflow-diagram.png)
+
+Tasks move through four stages — **To Do → In Progress → Review → Done** — with the option to send a task back to "In Progress" if changes are requested during review. Comments, assignments, priorities, and deadlines can be updated at any stage, and the dashboard reflects these changes in real time.
+
 ## 🛠 Tech Stack
 
 **Frontend:** React, Vite, Tailwind CSS, React Router, Recharts, @hello-pangea/dnd, Lucide Icons, Axios
