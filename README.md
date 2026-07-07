@@ -114,3 +114,7 @@ Visit `http://localhost:5173` in your browser.
 ## 👩‍💻 Author
 
 Khadija — InnoViast Internship, Track 02 (Full-Stack Product Engineering)
+
+## 🎥 Demo Video
+
+[Watch the demo video here](https://canva.link/4s8qku3qnfm65m4)
