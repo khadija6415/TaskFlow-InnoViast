@@ -65,12 +65,41 @@ Visit `http://localhost:5173` in your browser.
 
 ## 📸 Screenshots
 
-_(Add screenshots here — Login page, Dashboard/Kanban board, Task modal, List view)_
+### Login Page
+![Login Page](./screenshots/01-login-page.png)
+
+### Signup Page
+![Signup Page](./screenshots/02-signup-page.png)
+
+### Dashboard Overview (Stats + Charts)
+![Dashboard Overview](./screenshots/03-dashboard-overview.png)
+
+### Kanban Board
+![Kanban Board](./screenshots/04-kanban-board.png)
+
+### Task Details Modal
+![Task Modal](./screenshots/05-task-modal-details.png)
+
+### Task Comments
+![Task Comments](./screenshots/06-task-comments.png)
+
+### List View
+![List View](./screenshots/07-list-view.png)
+
+### Filters & Search
+![Filters](./screenshots/08-filters-search.png)
+
+### Mobile Responsive View
+![Mobile View](./screenshots/09-mobile-responsive.png)
+
+### New Task Form
+![New Task Form](./screenshots/10-new-task-form.png)
+
 
 ## 🌐 Live Deployment
 
-- **Frontend:** _(Vercel link here)_
-- **Backend API:** _(Render link here)_
+- **Frontend:** https://task-flow-inno-viast.vercel.app
+- **Backend API:** https://taskflow-innoviast.onrender.com
 
 ## 🎓 Learning Outcomes
 
